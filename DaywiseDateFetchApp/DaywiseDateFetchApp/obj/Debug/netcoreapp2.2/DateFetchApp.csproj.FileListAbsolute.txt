@@ -1,0 +1,11 @@
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\DateFetchApp.deps.json
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\DateFetchApp.runtimeconfig.json
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\DateFetchApp.runtimeconfig.dev.json
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\DateFetchApp.dll
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\DateFetchApp.pdb
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.csproj.CoreCompileInputs.cache
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.AssemblyInfoInputs.cache
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.AssemblyInfo.cs
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.dll
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.pdb
+C:\Personal\SampleApps\DayCalcForMeeting\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\DateFetchApp.csprojAssemblyReference.cache
